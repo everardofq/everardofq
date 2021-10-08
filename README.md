@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋, I am Ever!
+I am a Software Engineer passionate for Integration projects, right now I am learning MuleSoft if you have any advice, please let me know...
 
 <!--
 **everardofq/everardofq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##About me
+- From 🇲🇽
+- 💻 Experience in Oracle SOA Suite, Oracle Integration Cloud & Java
+- 🌱 I’m currently learning [MuleSoft](https://www.mulesoft.com/)
+- 👯 I’m looking to collaborate on MuleSoft projects
+- 🦜 🦜 Kika & Jhon
+- ❤️ 🚴🏼‍♂️ ⛹🏽‍♂️ 🏀
