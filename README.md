@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 ##About me
 - From 🇲🇽
-- 💻 Experience in Oracle SOA Suite, Oracle Integration Cloud & Java
-- 🌱 I’m currently learning [MuleSoft](https://www.mulesoft.com/)
+- 💻 Experience as Integration Developer [ MuleSoft|Oracle SOA Suite|Oracle Integration Cloud|Spring Microservices|Java|
+- 🌱 I’m currently learning [Salesforce](https://www.salesforce.com/mx/)
 - 👯 I’m looking to collaborate on MuleSoft projects
 - 🦜 🦜 Kika & Jhon
 - ❤️ 🚴🏼‍♂️ ⛹🏽‍♂️ 🏀
