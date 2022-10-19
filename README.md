@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ##About me
 - From 🇲🇽
 - 💻 Experience as Integration Developer [ MuleSoft | Oracle Integration Cloud | Oracle SOA Suite | Spring Microservices | Java
+- 🔭 I have started my YouTube channel [Acedemia de Integraciones BJuarez](https://www.youtube.com/channel/UC0vtaKDMXQkExcBqLAMDCMg)
 - 🌱 I’m currently learning [Salesforce](https://www.salesforce.com/mx/)
 - 👯 I’m looking to collaborate on MuleSoft & Salesforce projects
 - 🦜 🦜 Kika & Jhon
